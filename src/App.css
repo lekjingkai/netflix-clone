@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.testBG {
+  height: 2000px;
+  background-color: #141414;
+  /* background-color: orange; */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}

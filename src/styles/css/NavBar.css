@@ -1,0 +1,42 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  transition: all 0.3s ease;
+  background-color: transparent;
+  background: linear-gradient(0deg, rgba(20, 20, 20, 0) 0%, #141414 100%);
+}
+.navbar .content {
+  max-width: 95%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 0px;
+}
+.navbar .content .left-content,
+.navbar .content .right-content {
+  display: flex;
+  align-items: center;
+}
+.navbar .content .home-link {
+  margin-right: 20px;
+}
+.navbar .content .menu-list {
+  display: inline-flex;
+}
+.navbar .content .menu-list li {
+  list-style: none;
+}
+.navbar .content .menu-list li a {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 15px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.sticky {
+  background-color: #141414;
+}
