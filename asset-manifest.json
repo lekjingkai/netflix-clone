@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/netflix-clone/static/css/main.66fc8105.chunk.css",
-    "main.js": "/netflix-clone/static/js/main.90345ec2.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.90345ec2.chunk.js.map",
-    "runtime-main.js": "/netflix-clone/static/js/runtime-main.2d550613.js",
-    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.2d550613.js.map",
-    "static/js/2.37b06407.chunk.js": "/netflix-clone/static/js/2.37b06407.chunk.js",
-    "static/js/2.37b06407.chunk.js.map": "/netflix-clone/static/js/2.37b06407.chunk.js.map",
-    "static/js/3.a4d7230a.chunk.js": "/netflix-clone/static/js/3.a4d7230a.chunk.js",
-    "static/js/3.a4d7230a.chunk.js.map": "/netflix-clone/static/js/3.a4d7230a.chunk.js.map",
+    "main.css": "/netflix-clone/static/css/main.d9200d01.chunk.css",
+    "main.js": "/netflix-clone/static/js/main.a3f7fb8f.chunk.js",
+    "main.js.map": "/netflix-clone/static/js/main.a3f7fb8f.chunk.js.map",
+    "runtime-main.js": "/netflix-clone/static/js/runtime-main.46ddab0c.js",
+    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.46ddab0c.js.map",
+    "static/js/2.05af3c84.chunk.js": "/netflix-clone/static/js/2.05af3c84.chunk.js",
+    "static/js/2.05af3c84.chunk.js.map": "/netflix-clone/static/js/2.05af3c84.chunk.js.map",
+    "static/js/3.0f08d33e.chunk.js": "/netflix-clone/static/js/3.0f08d33e.chunk.js",
+    "static/js/3.0f08d33e.chunk.js.map": "/netflix-clone/static/js/3.0f08d33e.chunk.js.map",
     "index.html": "/netflix-clone/index.html",
-    "static/css/main.66fc8105.chunk.css.map": "/netflix-clone/static/css/main.66fc8105.chunk.css.map",
-    "static/js/2.37b06407.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.37b06407.chunk.js.LICENSE.txt"
+    "static/css/main.d9200d01.chunk.css.map": "/netflix-clone/static/css/main.d9200d01.chunk.css.map",
+    "static/js/2.05af3c84.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.05af3c84.chunk.js.LICENSE.txt",
+    "static/media/placeholder-banner.dc44ed65.jpg": "/netflix-clone/static/media/placeholder-banner.dc44ed65.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d550613.js",
-    "static/js/2.37b06407.chunk.js",
-    "static/css/main.66fc8105.chunk.css",
-    "static/js/main.90345ec2.chunk.js"
+    "static/js/runtime-main.46ddab0c.js",
+    "static/js/2.05af3c84.chunk.js",
+    "static/css/main.d9200d01.chunk.css",
+    "static/js/main.a3f7fb8f.chunk.js"
   ]
 }
